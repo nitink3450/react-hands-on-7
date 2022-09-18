@@ -5,7 +5,7 @@ function JustifiedExample() {
   return (
     <Nav className='navbar' justify variant="tabs" defaultActiveKey="/home">
       <Nav.Item>
-        <Link className='textNone' to="/Home">Home</Link>
+        <Link className='textNone' to="/">Home</Link>
       </Nav.Item>
       <Nav.Item>
         <Link className='textNone' to="/Student">Student</Link>
